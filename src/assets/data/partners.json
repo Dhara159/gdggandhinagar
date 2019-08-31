@@ -1,0 +1,76 @@
+{
+    "Organized By":[
+        {
+            "name":"GDG Gandhinagar",
+            "link":"https://www.womentechmakers.com/",
+            "img":"gdgjalandhar.webp"
+        },
+        {
+            "name":"GDG Gandhinagar",
+            "link":"https://github.com/gdg-x",
+            "img":"gdgchd.webp"
+        }
+    ],
+
+    "Official Partner":[
+        {
+            "name":"Google",
+            "link":"https://google.com/groups",
+            "img":"google.svg"
+        },
+        {
+            "name":"GDG[x]",
+            "link":"https://github.com/gdg-x",
+            "img":"gdg-x.svg"
+        }
+    ],
+    "Global Initiative":[
+        {
+            "name":"Google Developers",
+            "link":"https://developers.google.com/groups",
+            "img":"googledevs.webp"
+        },
+        {
+            "name":"GDG",
+            "link":"https://developers.google.com/groups",
+            "img":"gdglogo.webp"
+        },
+        {
+            "name":"WomenTechmakers",
+            "link":"https://www.womentechmakers.com/",
+            "img":"wtm.svg"
+        }
+    ],
+    "Community Partners":[
+        {
+            "name":"JetBrains",
+            "link":"https://www.womentechmakers.com/",
+            "img":"jetbrains.webp"
+        },
+        {
+            "name":"CodinGurukul",
+            "link":"https://codingurukul.com/",
+            "img":"cg.webp"
+        }
+    ],
+    "PlatinumSponsors":[
+       
+    ],
+    "Gold Sponsors":[
+        
+    ],
+    "Silver Sponsors":[
+
+    ],
+    "Bronze Sponsors":[
+       
+    ],
+    "Web App Creator":[
+        {
+            "name":"GDG Gandhinagar",
+            "link":"https://developers.google.com/groups",
+            "img":"gdgjalandhar.webp"
+        }
+    ]    
+
+}
